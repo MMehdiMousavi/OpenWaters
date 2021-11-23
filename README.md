@@ -9,11 +9,11 @@
 OpenWaters is a simulation tool made in Unreal Engine for generating massive underwater computer vision datasets.
 
 <p align="center">
-  <img src="Assets/SuperCaustics.gif" alt="drawing" width="600"/>
+  <img src="Assets/Demo.gif" alt="drawing" width="600"/>
 </p>
 
 <p align="center">
-  <img src="Assets/Showcase.png" alt="drawing" width="600"/>
+  <img src="Assets/Demo.png" alt="drawing" width="600"/>
 </p>
 <p align="center">
   
