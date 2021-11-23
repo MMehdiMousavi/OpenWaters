@@ -4,6 +4,8 @@
 
 # OpenWaters
 
+This repo is a work in progress
+
 ## Official Repository for [OpenWaters: Photorealistic Simulations for Underwater Computer Vision](https://doi.org/10.1145/3491315.3491336)
 
 OpenWaters is a simulation tool made in Unreal Engine for generating massive underwater computer vision datasets. OpenWaters supports creation of massive amount of underwater images by emulating diverse real-world conditions. It allows for fine controls over every variable in a simulation instance, including geometry, rendering parameters like ray-traced water caustics, scattering, and ground-truth labels.
