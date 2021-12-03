@@ -20,7 +20,7 @@ OpenWaters is a simulation tool made in Unreal Engine for generating massive und
 <p align="center">
   
   <p align="center">
-  <img src="Assets/Openw_1" alt="drawing" width="600"/>
+  <img src="Assets/Openw_1.png" alt="drawing" width="600"/>
 </p>
   
 
