@@ -45,8 +45,3 @@ mehdimousavi.redcap[at]gmail[dot]com**
 ## Citation:
 If you end up using OpenWaters or The Neural Networks, please cite our paper: 
 
-    @misc{mousavi2021openWaters,
-      title={OpenWaters: Photorealistic Simulations For Underwater Computer Vision}, 
-      author={Mehdi Mousavi, Shardul Vaidya, Razat Sutradhar, and Ashwin Ashok},
-      year={2021}
-      }
